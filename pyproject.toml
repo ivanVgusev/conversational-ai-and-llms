@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Общее окружение для лабораторных работ"
 requires-python = ">=3.10,<3.13"
 dependencies = [
+    "accelerate>=1.15.0",
     "datasets==2.19.1",
     "ipykernel==6.29.4",
     "jupyterlab==4.2.1",
