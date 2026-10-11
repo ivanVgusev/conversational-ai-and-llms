@@ -4,3 +4,6 @@
 .ipynb_checkpoints/
 __pycache__/
 *.py[cod]
+
+lab2_phrase_predictor/decoder_finetuned
+lab2_phrase_predictor/encoder_decoder_finetuned
