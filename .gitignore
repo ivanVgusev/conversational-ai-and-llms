@@ -7,3 +7,5 @@ __pycache__/
 
 lab2_phrase_predictor/decoder_finetuned
 lab2_phrase_predictor/encoder_decoder_finetuned
+
+lab3_qa/qa/results
